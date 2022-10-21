@@ -22,3 +22,5 @@ Todo 관리를 위한 웹 애플리케이션입니다.
 ## Branch Merge Test
 
 머지가 머지~?
+
+## Branch Merge by PR
